@@ -1,0 +1,43 @@
+# bg2 房间图索引
+
+| 文件 | 中文房间名 |
+|---|---|
+| `bg2/canteen.webp` | 食堂 |
+| `bg2/lobby.webp` | 门厅 |
+| `bg2/rnd_room.webp` | 研发室 |
+| `bg2/workshop.webp` | 工作技术室 |
+| `bg2/mystery_room.webp` | 神秘房间 |
+| `bg2/gymnasium.webp` | 体育馆 |
+| `bg2/parking_lot.webp` | 停车场 |
+| `bg2/classroom_1f.webp` | 一楼教室 |
+| `bg2/classroom_2f.webp` | 二楼教室 |
+| `bg2/classroom_3f.webp` | 三楼教室 |
+| `bg2/biopharma_room.webp` | 生物药品室 |
+| `bg2/library.webp` | 图书室 |
+| `bg2/courtyard.webp` | 庭院 |
+| `bg2/morgue.webp` | 停尸房 |
+| `bg2/training_room.webp` | 训练室 |
+| `bg2/lounge.webp` | 休息室 |
+| `bg2/recreation_room.webp` | 娱乐室 |
+| `bg2/infirmary.webp` | 医务室 |
+| `bg2/war_room.webp` | 作战室 |
+| `bg2/defense_front.webp` | 防卫室前 |
+| `bg2/restroom_male.webp` | 男厕 |
+| `bg2/restroom_female.webp` | 女厕 |
+| `bg2/rooftop.webp` | 天台 |
+| `bg2/laboratory.webp` | 实验室 |
+| `bg2/room_chr001.webp` | 澄野拓海的房间 |
+| `bg2/room_chr002.webp` | 厄师寺猛丸的房间 |
+| `bg2/room_chr003.webp` | 雫原比留子的房间 |
+| `bg2/room_chr004.webp` | 饴宫怠美的房间 |
+| `bg2/room_chr005.webp` | 苍月卫人的房间 |
+| `bg2/room_chr006.webp` | 川奈翼的房间 |
+| `bg2/room_chr007.webp` | 丸子乐的房间 |
+| `bg2/room_chr008.webp` | 九十九今马的房间 |
+| `bg2/room_chr009.webp` | 九十九过子的房间 |
+| `bg2/room_chr010.webp` | 银崎晶马的房间 |
+| `bg2/room_chr011.webp` | 雾藤希的房间 |
+| `bg2/room_chr012.webp` | 大铃木梦罗的房间 |
+| `bg2/room_chr013.webp` | 凶鸟狂死香的房间 |
+| `bg2/room_chr014.webp` | 面影歪的房间 |
+| `bg2/room_chr015.webp` | 丧白萌子的房间 |
